@@ -8,6 +8,11 @@
 
 - [nLogin](https://www.nickuc.com/)
 
+## <a id="compile"></a>Compiling
+
+#### Requirements:
+>- JDK 1.8
+
 #### How to compile:
 
 >- Clone this project repository with git
