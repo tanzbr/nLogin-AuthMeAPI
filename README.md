@@ -1,7 +1,7 @@
 <div id="addon-logo" align="center">
     <br />
     <img src="https://www.nickuc.com/static/assets/img/nlogin.svg" alt="Addon Logo" width="500"/>
-    <h3>Automatically creates a strong passwords/PINs when logging into compatible servers.</h3>
+    <h3>AuthMeAPI implementation for nLogin.</h3>
 </div>
 
 ## <a id="dependencies"></a>Dependencies
